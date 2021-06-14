@@ -1,0 +1,6 @@
+framework module Pods_FlatstackTestTask {
+  umbrella header "Pods-FlatstackTestTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

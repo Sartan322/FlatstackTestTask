@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FlatstackTestTask/Pods-FlatstackTestTask-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Nuke/Nuke.framework
+${BUILT_PRODUCTS_DIR}/SwiftyJSON/SwiftyJSON.framework

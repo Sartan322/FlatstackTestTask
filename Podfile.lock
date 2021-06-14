@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (5.4.3)
+  - Nuke (9.5.1)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - Nuke (from `https://github.com/kean/Nuke`, branch `master`)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftyJSON
+
+EXTERNAL SOURCES:
+  Nuke:
+    :branch: master
+    :git: https://github.com/kean/Nuke
+
+CHECKOUT OPTIONS:
+  Nuke:
+    :commit: 69ae6d5b8c4b898450432f94bd35f863d3830cfc
+    :git: https://github.com/kean/Nuke
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  Nuke: 2c1e5d49c9f92433c7f74a78b21292853aeda727
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: b01e5f1b877bf21bd44ba1af20b16349a5dea96b
+
+COCOAPODS: 1.9.3
